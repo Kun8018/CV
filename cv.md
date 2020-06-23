@@ -15,17 +15,13 @@ Github：github.com/Kun8018
 ## 技能清单
 
 1.熟练使用 php， 掌握 laravel 框架， 熟悉包依赖管理、 RESTful 架构、 Mysql 数据库等，
-
 2.熟练使用 node.js， 熟悉 npm、 JavaScript， 使用过 Express 框架
-
 3.使用 Vue+antd 开发前端页面，掌握 html、 css、 bootstrap 等前端技能， 了解 ES6 语法，
-
 4.使用 Ubuntu+python 开发过机器人项目， 了解 Linux 基本命令、开发环境配置， 熟悉 Git，
-
 5.编写过简单的 Flutter 移动端 App
 
 ## 项目经历
-
+ 
 - Laravel 的博客项目: 时间:2019.7-2019.11
 
 ​       使用 Laravel 搭建后端 api， 实现用户注册、登录验证、数据库管理（增删改查）， 前端使用 Vue+antd做界面， 使用 vuex 进行数据管理， 通过 axios 跨域进行接口。 使用 laravel 的 markdown 插件编辑，后台生成 html 文件。
