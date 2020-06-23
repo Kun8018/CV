@@ -1,8 +1,8 @@
 # 联系方式
 
-微信/手机：132******************
+微信/手机：132*********
 
-email：1027690173@qq.com
+E-mail：1027690173@qq.com
 
 # 个人信息
 
@@ -17,6 +17,7 @@ Github：github.com/Kun8018
 求职意向：PHP/Node后端、前端开发（实习生）、月内到岗
 
 # 技能清单
+
 1.熟练使用 php， 掌握 laravel 框架， 熟悉包依赖管理、 RESTful 架构、 Mysql 数据库等，
 
 2.熟练使用 node.js， 熟悉 npm、 JavaScript， 使用过 Express 框架
@@ -26,7 +27,6 @@ Github：github.com/Kun8018
 4.使用 Ubuntu+python 开发过机器人项目， 了解 Linux 基本命令、开发环境配置， 熟悉 Git，
 
 5.编写过简单的 Flutter 移动端 App
-
 
 # 项目经历
 
