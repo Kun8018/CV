@@ -36,11 +36,13 @@ Github：github.com/Kun8018
 做界面， 使用 vuex 进行数据管理， 通过 axios 跨域进行接口。 使用 laravel 的 markdown 插件编辑，
 后台生成 html 文件。
 
+
 - Electron 文件上传桌面端: 时间： 2020.1-2020.4
 
 使用 Electron+Node 搭建文件夹系统，使用 Vue+antd 搭建前端显示页面， Electron 主进程编写
 窗口、 菜单栏、右键菜单栏、图标， Node 与系统交互，写后台，用 Axios 与 Vue 交互，提交的文件
 直接传到服务器。
+
 
 - Flutter 移动电影列表 APP: 时间： 2020.1-2020.4
 
